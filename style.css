@@ -1,0 +1,40 @@
+#navbarNav .navbar-nav li a {
+    color: white;
+    font-size: 15px;
+}
+
+.navbar-brand img {
+    margin-left: 10%;
+}
+
+#date {
+    margin-left: 0;
+    padding-top: 20px;
+}
+
+.panel-body {
+    background-color: gray;
+    padding: 30px;
+}
+
+#search {
+    position:absolute;
+    right: 100px;
+    color: white;
+}
+
+#three {
+    background-color: gainsboro;
+}
+
+#grunt {
+    margin-bottom: 20px;
+}
+
+#hunter {
+    margin-top: 20px;
+}
+
+#velvet {
+    margin-top: 20px;
+}
